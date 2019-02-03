@@ -1,3 +1,2 @@
 first line:123
 second line:456
-thrid line:789
